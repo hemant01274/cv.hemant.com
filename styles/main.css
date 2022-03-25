@@ -1,0 +1,17 @@
+.types {
+    text-align: center;
+    color: #b509ac;
+    margin-bottom: 0.3em;
+}
+
+.color {
+    color: #b509ac;
+}
+
+.profiles {
+    margin-right: 1.5em;
+}
+
+svg:hover {
+    fill: #b509ac;
+}
